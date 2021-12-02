@@ -1,4 +1,5 @@
-# Part 1
+# Day 1
+##  Part 1
 suppose you had the following report:
 ```text
 199
@@ -31,7 +32,7 @@ To do this, count the number of times a depth measurement increases from the pre
 263 (increased)
 
 ```
-# Part 2
+## Part 2
 
 Considering every single measurement isn't as useful as you expected: there's just too much noise in the data.
 
