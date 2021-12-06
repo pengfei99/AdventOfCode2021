@@ -156,8 +156,8 @@ def part_2(nums, matrix):
 
 
 def main():
-    # nums = read_num("data/test_n.txt")
-    # matrix = read_matrix("data/test_m.txt")
+    # nums = read_num("data/prod.txt")
+    # matrix = read_matrix("data/test.txt")
     # part_1(nums, matrix)
     # part_2(nums, matrix)
 
