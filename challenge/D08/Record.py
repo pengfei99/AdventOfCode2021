@@ -45,7 +45,7 @@ class Record:
 
 
 
-                # base_line = {1: "cf",
+ # base_line = {1: "cf",
                 #              7: "acf",
                 #              4: "bcdf",
                 #              2: "acdeg", 3: "acdfg", 5: "abdfg",
